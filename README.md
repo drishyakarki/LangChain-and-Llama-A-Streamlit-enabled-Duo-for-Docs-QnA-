@@ -38,3 +38,5 @@ In this repository I have created a question answering conversational AI system 
 2. Create a virtual env ```python -m venv venv```
 3. Install the dependencies ```pip install -r requirements.txt```
 4. Run the streamlit app ```streamlit run app.py```
+
+*You can download the model from the huggingface [here](https://huggingface.co/TheBloke/LLaMa-7B-GGML).*
